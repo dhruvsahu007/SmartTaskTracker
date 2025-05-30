@@ -62,4 +62,13 @@ AI will respond with:
   "assignee": "Sarah",
   "dueDate": "Friday",
   "priority": "P1"
+  
 }
+
+## Output ScreenShots
+
+![Screenshot 2025-05-30 152026](https://github.com/user-attachments/assets/ff408ebc-a370-46c6-bc4c-ea351dde1964)
+![Screenshot 2025-05-30 152109](https://github.com/user-attachments/assets/199a16fb-9f29-48af-b284-83041ccdb701)
+
+
+
